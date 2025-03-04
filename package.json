@@ -1,0 +1,19 @@
+{
+  "name": "revelica-themes",
+  "version": "0.0.1",
+  "description": "Commone Revelica tailwind themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/personica-app/theme-package.git"
+  },
+  "author": "geoffsmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/personica-app/theme-package/issues"
+  },
+  "homepage": "https://github.com/personica-app/theme-package#readme"
+}
